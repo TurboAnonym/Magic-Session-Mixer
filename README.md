@@ -4,6 +4,8 @@
 
 in order for the Magic Session Mixer to work you need the latest development "version" of https://github.com/AndreMiras/pycaw (not the one on pip)
 
+![image](https://user-images.githubusercontent.com/63397666/118412062-2fe8c400-b698-11eb-9187-f311c2c26ac0.png)
+
 ## DEMO video:
 
 https://user-images.githubusercontent.com/63397666/116756672-c5cfee00-aa0c-11eb-9cb5-c1f04e60acfa.mp4
